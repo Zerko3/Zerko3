@@ -5,8 +5,9 @@
 
 - 📫 How to reach me **zan.zerak99@gmail.com**
 
-- 💻 Current live project: **(https://heritage-zan.netlify.app/)**
-- 💻 Current live project: **(https://weather-io-zan.netlify.app/)**
+- 💻 Live website: **(https://heritage-zan.netlify.app/)**
+- 💻 Weather app: **(https://weather-io-zan.netlify.app/)**
+- 💻 Pomodoro app: **(https://study-io-zan.netlify.app/)**
 
 <p align="left">
 </p>
