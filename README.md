@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **zan.zerak99@gmail.com**
 
-- 💻 Live website: **(https://heritage-zan.netlify.app/)**
+- 💻 Restaurant website: **(https://heritage-zan.netlify.app/)**
 - 💻 Weather app: **(https://weather-io-zan.netlify.app/)**
 - 💻 Pomodoro app: **(https://study-io-zan.netlify.app/)**
 
