@@ -7,6 +7,7 @@
 
 - 💻 Restaurant website: **(https://heritage-zan.netlify.app/)**
 - 💻 Weather app: **(https://weather-io-zan.netlify.app/)**
+- 💻 Tourist agency website: **(https://sakuras-journey-zan.netlify.app/)**
 - 💻 Pomodoro app: **(https://study-io-zan.netlify.app/)**
 
 <p align="left">
