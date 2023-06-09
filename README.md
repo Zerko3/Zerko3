@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning **Front-end development.**
 
 - 📫 How to reach me **zan.zerak99@gmail.com**
+- 🖥️ Check out my website at: https://zanzerak.netlify.app/
+
+ <h4>Links to my live projects can be found here:</h4>
 
 - 💻 Restaurant website: **(https://heritage-zan.netlify.app/)**
 - 💻 Weather app: **(https://weather-io-zan.netlify.app/)**
