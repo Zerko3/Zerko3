@@ -8,7 +8,7 @@
 
  <h4>Links to my live projects can be found here:</h4>
 
- Povio-chall: https://grand-unicorn-006726.netlify.app/
+ Povio-chall: https://povio-triglav-chall.netlify.app/
 
 - 💻 Restaurant website: **(https://heritage-zan.netlify.app/)**
 - 💻 Weather app: **(https://weather-io-zan.netlify.app/)**
