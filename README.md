@@ -9,11 +9,11 @@
  <h4>Links to my live projects can be found here:</h4>
 
  
-- 💻 Dashboard website for money tracking: **(https://financy-io.netlify.app/#/hero)**
-- 💻 Restaurant website: **(https://heritage-zan.netlify.app/)**
-- 💻 Weather app: **(https://weather-io-zan.netlify.app/)**
-- 💻 Tourist agency website: **(https://sakuras-journey-zan.netlify.app/)**
-- 💻 Pomodoro app: **(https://study-io-zan.netlify.app/)**
+- 💻 Dashboard website for money tracking (Angular, TS, SCSS): **(https://financy-io.netlify.app/#/hero)**
+- 💻 Restaurant website (HTML5, CSS3): **(https://heritage-zan.netlify.app/)**
+- 💻 Weather app (Vanilla JS, CSS3): **(https://weather-io-zan.netlify.app/)**
+- 💻 Tourist agency website (HTML5, SCSS): **(https://sakuras-journey-zan.netlify.app/)**
+- 💻 Pomodoro app (Vanilla JS, CSS3): **(https://study-io-zan.netlify.app/)**
 
 
 ## 🌐 Socials:
