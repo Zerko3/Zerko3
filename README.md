@@ -9,7 +9,7 @@
  <h4>Links to my live projects can be found here:</h4>
 
  
-
+- 💻 Dashboard website for money tracking: **(https://financy-io.netlify.app/#/hero)**
 - 💻 Restaurant website: **(https://heritage-zan.netlify.app/)**
 - 💻 Weather app: **(https://weather-io-zan.netlify.app/)**
 - 💻 Tourist agency website: **(https://sakuras-journey-zan.netlify.app/)**
