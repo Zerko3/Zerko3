@@ -10,6 +10,7 @@
 
  
 - 💻 Dashboard website for money tracking (Angular, TS, SCSS): **(https://financy-io.netlify.app/#/hero)**
+- 💻 Popular films landing page (Angular, TS, SCSS) **(https://film-io.netlify.app/#/home)**
 - 💻 Restaurant website (HTML5, CSS3): **(https://heritage-zan.netlify.app/)**
 - 💻 Weather app (Vanilla JS, CSS3): **(https://weather-io-zan.netlify.app/)**
 - 💻 Tourist agency website (HTML5, SCSS): **(https://sakuras-journey-zan.netlify.app/)**
