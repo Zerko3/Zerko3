@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Žan</h1>
 <h3 align="center">I am a CS student on a path to become a full-stack developer.</h3>
 
-- 🌱 I’m currently learning **Front-end development.**
+- 🌱 I’m currently learning **software engineering**
 
 - 📫 How to reach me **zan.zerak99@gmail.com**
 - 🖥️ Check out my website at: https://zanzerak.netlify.app/
